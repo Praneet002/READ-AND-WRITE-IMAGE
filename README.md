@@ -21,8 +21,8 @@ End the program and close the output image windows.
 ## Program:
 ### Developed By:
 ```
-Name: Jegathish S
-Register No: 212221230041
+Name: Praneet S
+Register No: 212221230078
 ```
 ### Register Number: 
 i) #To Read,display the image
